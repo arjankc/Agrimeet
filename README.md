@@ -1,4 +1,4 @@
-ud859
+Agrimeet
 =====
 
-Course code for Building Scalable Apps with Google App Engine class
+Agrimeet is an app that allows farmers to schedule events and organizations to schedule trainings for farmers. 
